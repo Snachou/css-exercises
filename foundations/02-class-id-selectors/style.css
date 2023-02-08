@@ -1,0 +1,18 @@
+.odd {
+    background-color: #d682c4;
+    font-family: "DejaVu Sans", Verdana, sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color : #0000ff;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#jhin {
+    background-color: #67c767;
+    font-weight: bold;
+}
